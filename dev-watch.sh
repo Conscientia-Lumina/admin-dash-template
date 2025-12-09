@@ -3,7 +3,7 @@
 # Dev server auto-restart script
 # This script will automatically restart the dev server if it crashes
 
-echo "🚀 Starting Gentelella dev server with auto-restart..."
+echo "🚀 Starting Admin Dash Template dev server with auto-restart..."
 
 while true; do
     echo "📡 Starting dev server on http://localhost:3000"

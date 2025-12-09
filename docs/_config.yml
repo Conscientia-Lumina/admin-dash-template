@@ -1,7 +1,7 @@
-title: Gentelella Admin Template
+title: Admin Dash Template
 description: Modern Bootstrap 5 Admin Dashboard Template with Performance Optimizations
 url: "https://puikinsh.github.io"
-baseurl: "/gentelella"
+baseurl: "/admin-dash-template"
 
 # Theme
 theme: just-the-docs
@@ -22,7 +22,7 @@ search:
 nav_sort: case_insensitive
 
 # Footer content
-footer_content: "Copyright &copy; {{ 'now' | date: '%Y' }} Colorlib. Distributed under the <a href=\"https://github.com/puikinsh/gentelella/blob/master/LICENSE.txt\">MIT license</a>."
+footer_content: "Copyright &copy; {{ 'now' | date: '%Y' }} Colorlib. Distributed under the <a href=\"https://github.com/puikinsh/admin-dash-template/blob/master/LICENSE.txt\">MIT license</a>."
 
 # Google Analytics (optional)
 # ga_tracking: UA-XXXXXXXX-X

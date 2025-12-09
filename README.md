@@ -1,10 +1,10 @@
-# Gentelella Admin Template
+# Admin Dash Template
 
 **Modern Bootstrap 5 Admin Dashboard Template with Vite Build System**
 
-Gentelella is a powerful, free-to-use Bootstrap 5 admin template that has been completely modernized with Vite, performance optimizations, and the latest web technologies. This template provides a comprehensive foundation for building admin panels, dashboards, and back-end applications.
+Admin Dash Template is a powerful, free-to-use Bootstrap 5 admin template that has been completely modernized with Vite, performance optimizations, and the latest web technologies. This template provides a comprehensive foundation for building admin panels, dashboards, and back-end applications.
 
-![Gentelella Bootstrap Admin Template](https://colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Gentelella Theme Browser Preview")
+![Admin Dash Template Bootstrap Admin Template](https://colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg "Admin Dash Template Theme Browser Preview")
 
 ## What's New in v2.1.1 (Latest Release - September 11, 2025)
 

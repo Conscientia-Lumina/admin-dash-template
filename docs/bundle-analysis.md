@@ -1,6 +1,6 @@
 # Bundle Analysis Guide
 
-This guide explains how to use the bundle analyzer to monitor and optimize the bundle size of the Gentelella admin template.
+This guide explains how to use the bundle analyzer to monitor and optimize the bundle size of the Admin Dash Template admin template.
 
 ## Quick Start
 

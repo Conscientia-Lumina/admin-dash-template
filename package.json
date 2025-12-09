@@ -1,8 +1,8 @@
 {
-  "name": "gentelella",
+  "name": "admin-dash-template",
   "version": "2.1.1",
   "type": "module",
-  "description": "Gentelella Admin is a free to use Bootstrap admin template",
+  "description": "Admin Dash Template is a free to use Bootstrap admin template",
   "scripts": {
     "dev": "vite --clearScreen false",
     "dev:watch": "./dev-watch.sh",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puikinsh/gentelella.git"
+    "url": "git+https://github.com/puikinsh/admin-dash-template.git"
   },
   "keywords": [
     "css",
@@ -41,9 +41,9 @@
   "license": "MIT",
   "main": "src/main.js",
   "bugs": {
-    "url": "https://github.com/puikinsh/gentelella/issues"
+    "url": "https://github.com/puikinsh/admin-dash-template/issues"
   },
-  "homepage": "https://github.com/puikinsh/gentelella#readme",
+  "homepage": "https://github.com/puikinsh/admin-dash-template#readme",
   "devDependencies": {
     "@eslint/js": "^9.35.0",
     "@typescript-eslint/eslint-plugin": "^8.43.0",

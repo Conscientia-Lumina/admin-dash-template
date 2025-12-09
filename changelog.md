@@ -1,4 +1,4 @@
-# Gentelella Changelog
+# Admin Dash Template Changelog
 
 ## 2.1.1 - 11.09.2025
 

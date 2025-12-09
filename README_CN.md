@@ -1,6 +1,6 @@
-# gentelella
+# Admin Dash Template
 
-Gentelella 管理后台是一个免费使用的Bootstrap管理模版。
+Admin Dash Template 管理后台是一个免费使用的Bootstrap管理模版。
 这个模版默认使用Bootstrap 3 风格，还有一系列强大的jQuery插件和工具去创造一个强大的框架，用来创建管理面板或者后端仪表盘。
 该主题使用了不同的库，用来创建表格，日历，表单验证，引导式风格的接口，导航菜单，文本表格，日期范围，上传区域，表格自动填充，范围滑块，进度条，提示以及更多。
 我们很乐意看到你使用这个令人惊叹的管理模版。你可以通过tweet [@colorlib](https://twitter.com/colorlib)告知我们你的网站，app或者服务。一旦列表量够了，我们将会写一篇文章去展示这个最佳案例[this](https://colorlib.com/wp/avada-theme-examples/)。

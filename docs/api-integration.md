@@ -7,7 +7,7 @@ nav_order: 8
 # API Integration Guide
 {: .no_toc }
 
-Learn how to integrate Gentelella Admin Template with backend APIs and external services
+Learn how to integrate Admin Dash Template with backend APIs and external services
 {: .fs-6 .fw-300 }
 
 ## Table of contents
